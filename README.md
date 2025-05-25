@@ -1,1 +1,2 @@
-# pc13media1
+# SIGHT
+Free Responsive Web Template
